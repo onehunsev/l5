@@ -1,3 +1,7 @@
 Hello World
 Some changes
+<<<<<<< HEAD
 Conflict from original repo
+=======
+Conflict from cloned repo
+>>>>>>> 5a53aa4ea6db7326f08a86091ea256ab3c94d765
